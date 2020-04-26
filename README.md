@@ -20,3 +20,8 @@ A short series of 20 questions each one getting harder and harder. All questions
 18.
 19.
 20.
+21.
+22.
+23.
+24.
+25.
